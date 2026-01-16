@@ -18,6 +18,8 @@
 <p> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,go,nodejs,expressjs,php,laravel,python,mysql,postgres,firebase,gcp,docker,git,postman,linux&theme=dark&perline=6" alt="My Skills" /> </a> </p>
 
 <a href="https://wakatime.com/@d2767603-e23e-49b9-84e8-252b6b99bb44"><img src="https://wakatime.com/badge/user/d2767603-e23e-49b9-84e8-252b6b99bb44.svg?style=for-the-badge" alt="Total time coded since March 28 2023" /></a>
+<img src="https://komarev.com/ghpvc/?username=indravscode&label=Profile%20views&style=for-the-badge" alt="indravscode" />
+<img src="https://img.shields.io/github/stars/indravscode?label=Stars&style=for-the-badge" alt="stars" />
 
 <a href="https://github.com/indravscode/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indravscode&hide=cmake,html,css,scss,less&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Indra Adnyana's top languages" /></a>
 
