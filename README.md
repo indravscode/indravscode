@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2023 - To: 23 June 2026
+From: 27 March 2023 - To: 24 June 2026
 
-Total Time: 2,688 hrs 50 mins
+Total Time: 2,691 hrs 10 mins
 
-PHP               729 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-TypeScript        497 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Blade Template    381 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Other             358 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+PHP               731 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+TypeScript        497 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Blade Template    382 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Other             358 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
 JavaScript        287 hrs 46 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
 ```
 
