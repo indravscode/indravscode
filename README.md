@@ -39,10 +39,10 @@ JavaScript        290 hrs 34 mins       ██▒░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<h3>:zap: GitHub Stats</h3>
+<!-- <h3>:zap: GitHub Stats</h3>
   
 | <a href="https://github.com/indravscode/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indravscode&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Indra Adnyana's github stats" /></a> | <a href="https://github.com/indravscode/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indravscode&theme=chartreuse-dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
 
 <h3 align="center">🐍 My Contributions 🐍</h3>
 <p><img alt="snake gif" src="https://github.com/indravscode/indravscode/blob/output/github-contribution-grid-snake-dark.svg" /></p>
